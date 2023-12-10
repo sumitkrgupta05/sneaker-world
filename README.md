@@ -1,3 +1,37 @@
+# Sneaker world
+
+Sneaker world is a Ecommerce website 
+---
+
+## Features
+
+- Add to cart 
+- buy now 
+- checkout
+
+## Languages and framework
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
