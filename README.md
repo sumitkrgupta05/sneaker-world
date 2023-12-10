@@ -1,6 +1,6 @@
 # Sneaker world
 
-Sneaker world is a Ecommerce website 
+nike sneaker website using redux functionality
 ---
 
 ## Features
