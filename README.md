@@ -9,9 +9,32 @@ Sneaker world is a Ecommerce website
 - buy now 
 - checkout
 
-## Languages and framework
+## Languages used in Sneaker world
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# Live Link
+
+<a href="https://sneaker-world.vercel.app"> click here to view project </a>
+
+### Contributors kindly read contributer.md file before contribute in this project.
+
+if you don't know about opensource then visit this repo :
+<a href="https://github.com/CodeCrafters-Guild/Opensource-guide"> Contributors Guide </a>
+
+# support me 
+<a href="https://www.buymeacoffee.com/hydradocs"> Buy Me a Coffee </a>
+
+- visit our premium courses
+- Learn to make connections
+- Join our ORG
+
+
+# Organization
+
+<a href="https://github.com/CodeCrafters-Guild"> Visit Organization </a>
 
 
 
@@ -32,11 +55,8 @@ Sneaker world is a Ecommerce website
 
 
 
-# React + Vite
+## Our valuable Contributors 👩‍💻👨‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<a href="https://github.com/CodeCrafters-Guild/Opensource-guide/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=CodeCrafters-Guild/Opensource-guide" />
+</a>
